@@ -29,9 +29,8 @@
 - **Maintenance:** Ender and Prusa
 
 ## 🚀 Projects
-Discover the rest of my projects on this profile!
+Discover my projects on this profile!
 
----
 
 ## 📚 Education
 - **École des Mines de Saint-Étiénne (ISMIN)** – Engineering Master's Degree specializing in microelectronics and IT
