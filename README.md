@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Antoine 👨‍💻</h1>
 
-I am a student engineer in microelectronic and IT systems passionate about programming, electronics, and 3D printing. Here is an overview of my skills:
+<p align="center">I am a student engineer in microelectronic and IT systems passionate about programming, electronics, and 3D printing. Here is an overview of my skills:<\p>
 
 ## 💻 Programming
 - **Languages:** C, C++, Embedded C, Python, Shell, Bash
