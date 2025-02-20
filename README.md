@@ -1,51 +1,37 @@
-# 💼 Bienvenue sur mon profil GitHub !
+# 💼 Welcome to my GitHub profile!
 
-Je suis étudiant en Systèmes Microélectroniques et Informatique passionné par la programmation, l'électronique et l'impression 3D. Voici un aperçu de mes compétences :
+I am passionate about programming, electronics, and 3D printing. Here is an overview of my skills:
 
-## 💻 Programmation
-- **Langages :** C, C++, C embarqué, Python, Shell, Bash
-- **Web :** HTML, CSS
-- **Hardware Description Language :** System Verilog
+## 💻 Programming
+- **Languages:** C, C++, Embedded C, Python, Shell, Bash
+- **Web:** HTML, CSS
+- **Hardware Description Language:** System Verilog
 
 ## 🔧 Hardware
-- Arduino (toutes cartes)
-- STM32 (toutes cartes)
+- Arduino (all boards)
+- STM32 (all boards)
 - Raspberry Pi
 - ESP32
-- Capteurs STMicroelectronics (TOF, etc.)
+- STMicroelectronics sensors (TOF, etc.)
 
-## 🛠️ Logiciels
-- **Conception 3D :** Autodesk Inventor
-- **Électronique :** STM32 Cube IDE, Arduino IDE, KiCad
-- **Systèmes :** Linux OS, VSCode
+## 🛠️ Software
+- **3D Design:** Autodesk Inventor
+- **Electronics:** STM32 Cube IDE, Arduino IDE, KiCad
+- **Systems:** Linux OS, VSCode
 
-## 🧩 Impression 3D
-- **Conception :** Autodesk Inventor
-- **Préparation :** Prusa Slicer
-- **Impression :** Ender et Prusa
-- **Maintenance :** Ender et Prusa
+## 🧩 3D Printing
+- **Design:** Autodesk Inventor
+- **Slicing:** Prusa Slicer
+- **Printing:** Ender and Prusa
+- **Maintenance:** Ender and Prusa
 
-## 🚀 Projets
-Découvrez mes projets sur ce profil !
+## 🚀 Projects
+Discover my projects on this profile!
 
 ---
-💡 **N’hésitez pas à me contacter ou à collaborer !**
+💡 **Feel free to contact me or collaborate!**
 
+## 📞 Contact
+- **Email:** antoine.chssgn@gmail.com
+- **LinkedIn:** [Antoine Chassaigne](https://www.linkedin.com/in/antoine-chassaigne-19a045268/)
 
-
-
-
-<!--
-**Disperseur/Disperseur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
