@@ -1,9 +1,5 @@
 <h1 align="center">👋 Hi, I'm Antoine 👨‍💻</h1>
-
 <p align="center">I am a student engineer in microelectronic and IT systems passionate about programming, electronics, and 3D printing. Here is an overview of my skills:</p>
-<h1 align="center">👋 Hi, I'm Antoine 👨‍💻</h1>
-
-<p align="center">I am a student engineer in microelectronics and IT systems passionate about programming, electronics, and 3D printing. Here is an overview of my skills:</p>
 
 ## 📞 Contact
 - **Email:** antoine.chssgn@gmail.com
