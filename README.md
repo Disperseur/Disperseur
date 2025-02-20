@@ -1,6 +1,13 @@
 <h1 align="center">👋 Hi, I'm Antoine 👨‍💻</h1>
 
-<p align="center">I am a student engineer in microelectronic and IT systems passionate about programming, electronics, and 3D printing. Here is an overview of my skills:<\p>
+<p align="center">I am a student engineer in microelectronic and IT systems passionate about programming, electronics, and 3D printing. Here is an overview of my skills:</p>
+<h1 align="center">👋 Hi, I'm Antoine 👨‍💻</h1>
+
+<p align="center">I am a student engineer in microelectronics and IT systems passionate about programming, electronics, and 3D printing. Here is an overview of my skills:</p>
+
+## 📞 Contact
+- **Email:** antoine.chssgn@gmail.com
+- **LinkedIn:** [Antoine Chassaigne](https://www.linkedin.com/in/antoine-chassaigne-19a045268/)
 
 ## 💻 Programming
 - **Languages:** C, C++, Embedded C, Python, Shell, Bash
@@ -26,16 +33,19 @@
 - **Maintenance:** Ender and Prusa
 
 ## 🚀 Projects
-Discover my projects on this profile!
+### My favorite ones:
+- 
+- 
+Discover the rest of my projects on this profile!
 
 ---
 
 ## 📚 Education
+- **École des Mines de Saint-Étiénne (ISMIN)** – Engineering Master's Degree specializing in microelectronics and IT
 
-- **École des Mines de Saint-Éticenne (ISMIN)** – Engineering Master's Degree specializing in microelectronics and IT
+## 📖 Currently Learning
+- FPGA development
+- Embedded AI basics
+- Embedded development
 
-
-## 📞 Contact
-- **Email:** antoine.chssgn@gmail.com
-- **LinkedIn:** [Antoine Chassaigne](https://www.linkedin.com/in/antoine-chassaigne-19a045268/)
 
