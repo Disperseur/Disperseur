@@ -30,6 +30,11 @@ Discover my projects on this profile!
 
 ---
 
+## 📚 Education
+
+- **École des Mines de Saint-Éticenne (ISMIN)** – Engineering Master's Degree specializing in microelectronics and IT
+
+
 ## 📞 Contact
 - **Email:** antoine.chssgn@gmail.com
 - **LinkedIn:** [Antoine Chassaigne](https://www.linkedin.com/in/antoine-chassaigne-19a045268/)
