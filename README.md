@@ -34,6 +34,7 @@ Discover my projects on this profile!
 
 ## 📚 Education
 - **École des Mines de Saint-Étiénne (ISMIN)** – Engineering Master's Degree specializing in microelectronics and IT
+- **Concordia University, Montréal QC** - Aerospace Engineering specializing in Avionics and flight controls
 
 ## 📖 Currently Learning
 - FPGA development
